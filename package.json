@@ -28,8 +28,5 @@
   "devDependencies": {
     "rollup": "^2.36.2",
     "rollup-plugin-terser": "^7.0.2"
-  },
-  "dependencies": {
-    "np": "^7.6.4"
   }
 }
