@@ -4,7 +4,7 @@ This web component creates a highly configurable slider element.
 
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/@annoyingmouse/wc-progress)
   
-Demo here: https://codepen.io/annoyingmouse/pen/gOzqLRm  
+Demo here: https://codepen.io/annoyingmouse/pen/rNZZGMj  
 
 ## Usage
 
