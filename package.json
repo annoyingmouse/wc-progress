@@ -1,6 +1,6 @@
 {
   "name": "@annoyingmouse/wc-progress",
-  "version": "1.0.13",
+  "version": "0.0.9",
   "description": "This web component creates a highly configurable progress element.",
   "main": "wc-progress.js",
   "scripts": {
