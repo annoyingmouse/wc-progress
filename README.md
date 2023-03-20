@@ -1,6 +1,6 @@
 # <wc-progress>
 
-This web component creates a highly configurable slider element.
+This web component creates a highly configurable progress element.
 
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/@annoyingmouse/wc-progress)
   
